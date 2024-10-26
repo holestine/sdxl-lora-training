@@ -8,5 +8,5 @@ ftfy
 tensorboard
 Jinja2
 datasets
-peft==0.7.0
+peft==0.13.2
 streamlit
